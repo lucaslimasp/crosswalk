@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xwalk</groupId>
+  <artifactId>xwalk_core_library</artifactId>
+  <versioning>
+    <release>23.53.589.4</release>
+    <versions>
+       <version>19.49.514.5</version>
+       <version>23.53.589.4</version>
+    </versions>
+    <lastUpdated>20170120015000</lastUpdated>
+  </versioning>
+</metadata>
